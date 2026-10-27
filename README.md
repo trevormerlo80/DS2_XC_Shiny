@@ -1,7 +1,7 @@
 # DS2_XC_Shiny
 R shiny app that simulates NCAA XC races based off of past results
 
-##This shiny app was created with the goal of visualizing predicted collegiate cross country meet scores, allowing
+This shiny app was created with the goal of visualizing predicted collegiate cross country meet scores, allowing
 users to see simulate races between schools of their choice.
 
 The interactive checkbox allows users to select which teams they want to be in a hypothetical race to simulate.
